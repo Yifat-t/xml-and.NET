@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book>
+    <id>0001</id>
+    <title>A Study in Scarlet</title>
+    <author title="Sir">
+      <firstname>Arthur</firstname>
+      <middlename>Conan</middlename>
+      <lastname>Doyle</lastname>
+    </author>
+    <!--editor>
+      <firstname>John</firstname>
+      <lastname>Smith</lastname>
+    </editor-->
+  </book>
+  <book>
+    <id>0002</id>
+    <title>Don Juan</title>
+    <author title="Lord">
+      <lastname>Byron</lastname>
+      <firstname>George</firstname>
+    </author>
+  </book>
+  <book>
+    <id>0003</id>
+    <title>Don Juan</title>
+    <author>
+      <firstname>Yifat</firstname>
+      <lastname>Tshuva</lastname>
+    </author>
+  </book>
+  <book>
+    <id>0004</id>
+    <title>test</title>
+    <author>
+      <firstname>Yifat</firstname>
+      <lastname>Tshuva</lastname>
+    </author>
+  </book>
+  <book>
+    <id>0005</id>
+    <title>test 5</title>
+    <author>
+      <firstname>NOAM</firstname>
+      <lastname>TSHUVA</lastname>
+    </author>
+  </book>
+  <book>
+    <id>0006</id>
+    <title>Title 6</title>
+    <author>
+      <firstname>Yifat</firstname>
+      <lastname>Tshuva</lastname>
+    </author>
+  </book>
+</books>
